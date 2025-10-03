@@ -13,4 +13,7 @@ alias grep='grep --color=auto'
 alias whatchanged='git log --raw --no-merges'
 # Because one less character for a better editor
 alias vi='vim'
+alias la='ls -alh'
+alias imout='shutdown -h now'
+alias wtf='reboot'
 PS1='[\u@\h \W]\$ '
